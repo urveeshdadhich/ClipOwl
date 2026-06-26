@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://lh3.googleusercontent.com/d/1P5uh1B45ayD-WUdkQlRplS-jF--A44zi" width="120" alt="ClipOwl Logo">
-  <h1>ClipOwl</h1>
+  <h1>ClipOwl AI</h1>
   <p><strong>A lightweight, AI-powered clipboard assistant for Windows.</strong></p>
 </div>
 
