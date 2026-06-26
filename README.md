@@ -1,5 +1,5 @@
+<img src="https://lh3.googleusercontent.com/d/1P5uh1B45ayD-WUdkQlRplS-jF--A44zi" width="600" alt="My Project Image">
 <div align="center">
-![My Project Image](https://lh3.googleusercontent.com/d/1P5uh1B45ayD-WUdkQlRplS-jF--A44zi)
   <h1>ClipOwl</h1>
   <p><strong>Your brilliant, AI-powered clipboard assistant.</strong></p>
 </div>
