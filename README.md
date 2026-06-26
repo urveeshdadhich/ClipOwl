@@ -61,6 +61,6 @@ If you want to view the source code or build the executable yourself:
 ---
 
 <div align="center">
-  <i>Built with ❤️ using Python and Gemini.</i>
+  <i>Built with ❤️ by urveesh.</i>
 </div>
 
