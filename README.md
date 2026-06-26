@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="icon.ico" alt="ClipOwl Logo" width="120" height="120">
   <h1>ClipOwl</h1>
   <p><strong>Your brilliant, AI-powered clipboard assistant.</strong></p>
 </div>
