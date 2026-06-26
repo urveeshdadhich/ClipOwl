@@ -1,4 +1,5 @@
 <div align="center">
+  ![](Attachments/icon-7.png)
   <h1>ClipOwl</h1>
   <p><strong>Your brilliant, AI-powered clipboard assistant.</strong></p>
 </div>
